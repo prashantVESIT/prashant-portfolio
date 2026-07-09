@@ -47,3 +47,41 @@ Currently, I am improving my skills in:
 ---
 
 ## 📂 Project Structure
+
+
+---
+
+## 📚 DSA Journey
+
+Currently practicing:
+
+- Arrays
+- Sorting Algorithms
+- Binary Search
+- Sliding Window
+- Prefix Sum
+- HashMap & HashSet
+
+---
+
+## 🔗 Coding Profiles
+
+GitHub:
+https://github.com/prashantVESIT
+
+LeetCode:
+https://leetcode.com/u/Prashant_1129/
+
+---
+
+## 📬 Contact
+
+Email:
+prashantnsingh1@gmail.com
+
+College:
+VES Institute of Technology
+
+---
+
+⭐ If you like this portfolio, feel free to explore the repository.

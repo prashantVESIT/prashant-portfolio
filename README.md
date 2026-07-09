@@ -10,6 +10,10 @@ This website showcases my skills, learning journey, DSA practice, and projects a
 
 ---
 
+## Preview
+
+![Portfolio Screenshot](images/portfolio-preview.png)
+
 ## 👨‍💻 About Me
 
 I am a B.Tech Engineering student at VESIT, Mumbai, passionate about programming, problem solving, and software development.

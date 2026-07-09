@@ -4,6 +4,10 @@ Welcome to my personal portfolio website.
 
 This website showcases my skills, learning journey, DSA practice, and projects as a B.Tech Engineering student interested in software development.
 
+## Preview
+
+![Portfolio Screenshot](images/portfolio-preview.png)
+
 ## 🌐 Live Website
 
 [View Portfolio](https://prashantvesit.github.io/prashant-portfolio/)

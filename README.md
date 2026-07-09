@@ -1,12 +1,49 @@
-# Prashant Portfolio
+# Prashant Singh - Portfolio 🚀
 
-A simple responsive portfolio website built with HTML, CSS, and JavaScript.
+Welcome to my personal portfolio website.
 
-## Structure
-- index.html — main page structure
-- style.css — visual styling and responsive layout
-- script.js — mobile navigation behavior and footer year
-- assets/ — profile image, resume, and optional social icons
+This website showcases my skills, learning journey, DSA practice, and projects as a B.Tech Engineering student interested in software development.
 
-## Preview
-Open index.html in a browser to view the portfolio.
+## 🌐 Live Website
+
+[View Portfolio](https://prashantvesit.github.io/prashant-portfolio/)
+
+---
+
+## 👨‍💻 About Me
+
+I am a B.Tech Engineering student at VESIT, Mumbai, passionate about programming, problem solving, and software development.
+
+Currently, I am improving my skills in:
+
+- Java
+- Data Structures & Algorithms
+- Problem Solving
+- Python Basics
+- HTML & CSS
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Google Fonts
+- Font Awesome
+
+---
+
+## 📌 Features
+
+- Responsive portfolio design
+- Modern glassmorphism UI
+- Smooth scrolling navigation
+- Typing animation
+- DSA learning timeline
+- Coding profile links
+- Resume download option
+
+---
+
+## 📂 Project Structure

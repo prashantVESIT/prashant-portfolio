@@ -449,6 +449,100 @@ section{
 
 }
 
+/* ===========================
+   EDUCATION
+=========================== */
+
+.education-container{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
+
+    gap:30px;
+
+}
+
+.education-card{
+
+    background:rgba(255,255,255,.05);
+
+    backdrop-filter:blur(15px);
+
+    border:1px solid rgba(255,255,255,.08);
+
+    border-radius:20px;
+
+    padding:35px;
+
+    transition:.35s;
+
+}
+
+.education-card:hover{
+
+    transform:translateY(-10px);
+
+    box-shadow:0 20px 40px rgba(37,99,235,.25);
+
+}
+
+.education-card h3{
+
+    color:#38bdf8;
+
+    margin-bottom:12px;
+
+    font-size:22px;
+
+}
+
+.education-card span{
+
+    display:block;
+
+    color:#cbd5e1;
+
+    margin-bottom:18px;
+
+    font-weight:500;
+
+}
+
+.education-card ul{
+
+    list-style:none;
+
+}
+
+.education-card ul li{
+
+    position:relative;
+
+    padding-left:22px;
+
+    margin-bottom:12px;
+
+    color:#d1d5db;
+
+    line-height:1.7;
+
+}
+
+.education-card ul li::before{
+
+    content:"▸";
+
+    position:absolute;
+
+    left:0;
+
+    color:#38bdf8;
+
+    font-weight:bold;
+
+}
+
 
 
 /* ===========================
